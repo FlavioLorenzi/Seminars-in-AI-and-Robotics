@@ -1,4 +1,4 @@
-# Seminars_Artificial_Intelligence
+# Seminars in AI and Robotics
 This repo highlights the most important aspects of the AI seminars topics, followed during the Master Thesis in Sapienza. 
 
 In particular I wrote this report about two topics that interested me most, among all of them (about 10 seminars were attended).
