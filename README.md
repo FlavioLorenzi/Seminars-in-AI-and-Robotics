@@ -5,8 +5,8 @@ In particular I wrote this report about two topics that interested me most, amon
 
 The first is about "Decision Making with Temporal Goals": my work consisted on analysis and reproduction of experiments with final related discussion.
 
-[](img/a.jpg)
+![](img/a.jpg)
 
 The second report is about "Least Square SLAM": my work consisted on a deep analysis of the topic, searching and discussing further documentation.
 
-[](img/b.png)
+![](img/b.png)
